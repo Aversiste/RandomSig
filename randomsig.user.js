@@ -1,0 +1,1 @@
+/home/xin/.mozilla/firefox/jd7mebmh.default/gm_scripts/randomsig/randomsig.user.js
