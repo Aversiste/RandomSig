@@ -59,7 +59,8 @@ var RandomSigArray = [
 "Evangelists do it with Him watching.",
 // Grands hommes
 "Je suis réactionnaire parce qu'antiparlementaire, antidémocrate et antisocialiste.\nBenito Mussolini",
-"Non.\nIoánnis Metaxás"
+"Non.\nIoánnis Metaxás",
+"Je pense qu'il est impossible de faire des progrès sous le système parlementaire.\nIoánnis Metaxás"
 ];
 
 function RandomSigModify (textarea) {
