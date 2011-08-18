@@ -57,8 +57,9 @@ var RandomSigArray = [
 "michau_a: Là dessus, on est tous d'accord je pense. Sauf peut-être nos OpenBSDistes.\nvivet_n: Pas grave ils sauront faire sans :P\ntribou_f: Non.... Sauron n'utilise pas OpenBSD...",
 //fortune
 "Evangelists do it with Him watching.",
-//old
-"Je suis réactionnaire parce qu'antiparlementaire, antidémocrate et antisocialiste.\nBenito Mussolini"
+// Grands hommes
+"Je suis réactionnaire parce qu'antiparlementaire, antidémocrate et antisocialiste.\nBenito Mussolini",
+"Non.\nIoánnis Metaxás"
 ];
 
 function RandomSigModify (textarea) {
