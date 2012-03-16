@@ -54,6 +54,7 @@ var RandomSigArray = [
 "tribou_f: Quoi ? Tu touches a mon buffer ? Tu touches a mon buffer ?",
 "tribou_f: Moi j'utilise pas les fichiers de conf, ça sert à rien.",
 "tribou_f: Les octets sont de gauche à droite.",
+"tribou_f: et... pkg_add -fffffffuuuuuuuuuuuu git? Il fait un webcamshot?",
 "michau_a: Là dessus, on est tous d'accord je pense. Sauf peut-être nos OpenBSDistes.\nvivet_n: Pas grave ils sauront faire sans :P\ntribou_f: Non.... Sauron n'utilise pas OpenBSD...",
 //fortune
 "Evangelists do it with Him watching.",
