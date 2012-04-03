@@ -60,7 +60,8 @@ var RandomSigArray = [
 // Grands hommes
 "Je suis réactionnaire parce qu'antiparlementaire, antidémocrate et antisocialiste.\nBenito Mussolini",
 "Non.\nIoánnis Metaxás",
-"Je pense qu'il est impossible de faire des progrès sous le système parlementaire.\nIoánnis Metaxás"
+"Je pense qu'il est impossible de faire des progrès sous le système parlementaire.\nIoánnis Metaxás",
+"Oh shit, now I’ve completely ruined my life.\nSebastian Schauseil"
 ];
 
 function RandomSigModify (textarea) {
