@@ -50,6 +50,7 @@ var RandomSigArray = [
 "michau_a: De rage, je me suis fait un bouillon de poule.",
 "pichot_f: Tu veux une metablague ? Bah c'est l'histoire d'un type.",
 "pichot_f: Tu veux une blague de shemale islamiste ?\nC'est l'histoire d'une Mecque.",
+"pichot_f: Genre je pourrais te dire que le C, c'est une boite à outil, mais que avec des vis et des clou.\n",
 "tribou_f: Le buffer j'en ai rien à foutre, tu peux le garder.",
 "tribou_f: Quoi ? Tu touches a mon buffer ? Tu touches a mon buffer ?",
 "tribou_f: Moi j'utilise pas les fichiers de conf, ça sert à rien.",
