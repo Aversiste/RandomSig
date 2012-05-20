@@ -6,6 +6,7 @@
 // @description    Place a random sig at the end of your posts
 // @license        WTF Public License; http://en.wikipedia.org/wiki/WTF_Public_License
 // @include        http://www.epitech.eu/intra/index.php?section=all&page=forum*
+// @include        https://www.epitech.eu/intra/index.php?section=all&page=forum*
 // ==/UserScript==
 
 //           DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
