@@ -48,6 +48,7 @@ var RandomSigArray = [
 "marand_a: (b jkh grr",
 "marand_a: Bon, le java c'est trop cool en fait. Je pense que je vais laisser tomber le tnethacle pour un EIP qui fait du java.",
 "marand_a: Un jour tu va avoir un rapport sexuel avec moi, et tu me dira que c'était pas un viol, parce que je n'aurais pas mis de capote.",
+"marand_a: IF YOU CANT COMPILE COMPRESS.C, mail [me] INSTEAD OF SILENTLY COMMENTING IT LIKE A RETARD",
 "michau_a: De rage, je me suis fait un bouillon de poule.",
 "michau_a: J'ai mes poumons sur Google+.",
 "pichot_f: Tu veux une metablague ? Bah c'est l'histoire d'un type.",
