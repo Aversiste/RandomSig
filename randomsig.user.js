@@ -68,6 +68,7 @@ var RandomSigArray = [
 "pichot_f: [Ce mec est incompetant] ca doit etre un cousin.",
 "pichot_f: Le verre ca se reconnait quand meme vachement avec les dents.",
 "pichot_f: D'après mon standard je suis drole.",
+"pichot_f: Moi je veux bien être la maitresse d’un mec riche.",
 "tribou_f: Le buffer j'en ai rien à foutre, tu peux le garder.",
 "tribou_f: Quoi ? Tu touches a mon buffer ? Tu touches a mon buffer ?",
 "tribou_f: Moi j'utilise pas les fichiers de conf, ça sert à rien.",
