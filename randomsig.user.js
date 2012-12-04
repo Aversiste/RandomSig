@@ -62,6 +62,7 @@ var RandomSigArray = [
 "michau_a: Là dessus, on est tous d'accord je pense. Sauf peut-être nos OpenBSDistes.\nvivet_n: Pas grave ils sauront faire sans :P\ntribou_f: Non.... Sauron n'utilise pas OpenBSD...",
 "michau_a: michau_a ça fait un peu demi-génocide.",
 "michau_a: Parce que je suis Corse.",
+"michau_a: C++ fout les gens dans des cases. C++, le langage du Front National.",
 "pichot_f: Tu veux une metablague ? Bah c'est l'histoire d'un type.",
 "pichot_f: Tu veux une blague de shemale islamiste ?\nC'est l'histoire d'une Mecque.",
 "pichot_f: Genre je pourrais te dire que le C, c'est une boite à outil, mais que avec des vis et des clou.",
